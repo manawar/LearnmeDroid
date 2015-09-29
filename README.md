@@ -1,6 +1,9 @@
 # LearnmeDroid
 Repository collective modern android
 
+# Description
+TBA
+
 # License
 Copyright 2015 XELearnDroid
 
